@@ -1,5 +1,3 @@
-# Tira per le scarpe
-
 **Tira per le scarpe** è un "micro sistema" di GDR da tavolo con un insieme di regole molto semplice.
 Il post originale è archiviato in ["Tiro per vedere se indosso le scarpe!"](https://web.archive.org/web/20200619145843/http://story-games.com/forums/discussion/11348/microdungeons-i-roll-to-see-if-i-have-shoes-on), ma ecco qui le regole:
 
