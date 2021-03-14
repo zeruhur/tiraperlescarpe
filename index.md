@@ -16,7 +16,7 @@ Questi scenari possono essere usati dai GM come punti di partenza per le session
 
 ## [Il Colpo](/ilcolpo.md)
 *Abili investigatori mettono in atto un piano per un grande colpo.*
-## [La Cucina Caotica](/cucinacaotica)
+## [La Cucina Caotica](/cucinacaotica.md)
 *I servitori di corte si affrettano a preparare e servire un banchetto fantastico.*
 ## [Hotel Epidemia](/hotelepidemia)
 *Uno staff impegnato deve affrontare l'arrivo improvviso di un nuovo virus zombi.*
