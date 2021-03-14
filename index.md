@@ -14,7 +14,7 @@ Il post originale è archiviato in ["Tiro per vedere se indosso le scarpe!"](htt
 
 Questi scenari possono essere usati dai GM come punti di partenza per le sessioni di gioco. Sono tutti delineati allo stesso modo: introduzione, segmenti di gioco e tabelle casuali pertinenti. Ogni sezione introduttiva dovrebbe aiutare a stabilire i dettagli e fornire al GM idee su come procede lo scenario. I segmenti menzionati sono tratti ampi intesi a mantenere l'attenzione sul flusso della narrazione per lo scenario.
 
-## [Il Colpo](/ilcolpo)
+## [Il Colpo](/ilcolpo.md)
 *Abili investigatori mettono in atto un piano per un grande colpo.*
 ## [La Cucina Caotica](/cucinacaotica)
 *I servitori di corte si affrettano a preparare e servire un banchetto fantastico.*
