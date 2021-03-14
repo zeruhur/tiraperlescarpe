@@ -52,7 +52,7 @@ Tira D66 (due D6 fianco a fianco) per ciascuna delle tabelle sottostanti.
 | 21 Ingombrante     | 41 Obesə        | 61 Altə        |
 | 22 Scolpitə        | 42 Pallidə      | 62 Tatuatə     |
 | 23 Paffutə         | 43 Piccolinə    | 63 Tentacolatə |
-| 24 Pulitə          | 44 Spaventosə   | 64 MinuscolƏ   |
+| 24 Pulitə          | 44 Spaventosə   | 64 Minuscolə   |
 | 25 Raccapricciante | 45 Loscə        | 65 Orribile    |
 | 26 Vecchiə         | 46 Bassə        | 66 Voluttuosə  |
 
