@@ -32,7 +32,7 @@ La corte si riunisce per essere servita e la qualità del cibo preparato e le at
 ### Nomi dei PNG
 Tira per gli aggettivi sulle tabelle NPC.
 
-1. Dragonkin
+1. Dragonide
 2. Nano
 3. Elfo
 4. Halfling
