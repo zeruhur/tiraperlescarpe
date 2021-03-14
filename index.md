@@ -1,7 +1,7 @@
 # Tira per le scarpe
 
 **Tira per le scarpe** è un "micro sistema" di GDR da tavolo con un insieme di regole molto semplice.
-Il post oroginale è archiviato in ["Tiro per vedere se indosso le scarpe!"](https://web.archive.org/web/20200619145843/http://story-games.com/forums/discussion/11348/microdungeons-i-roll-to-see-if-i-have-shoes-on), ma ecco qui le regole:
+Il post originale è archiviato in ["Tiro per vedere se indosso le scarpe!"](https://web.archive.org/web/20200619145843/http://story-games.com/forums/discussion/11348/microdungeons-i-roll-to-see-if-i-have-shoes-on), ma ecco qui le regole:
 
 1. Dì quello che vuoi fare e tira un certo numero di D6, determinato dal livello di abilità pertinente che hai.
 2. Se la somma del tuo tiro è maggiore del tiro avversario, succede la cosa che volevi che accadesse.
@@ -14,15 +14,15 @@ Il post oroginale è archiviato in ["Tiro per vedere se indosso le scarpe!"](htt
 
 Questi scenari possono essere usati dai GM come punti di partenza per le sessioni di gioco. Sono tutti delineati allo stesso modo: introduzione, segmenti di gioco e tabelle casuali pertinenti. Ogni sezione introduttiva dovrebbe aiutare a stabilire i dettagli e fornire al GM idee su come procede lo scenario. I segmenti menzionati sono tratti ampi intesi a mantenere l'attenzione sul flusso della narrazione per lo scenario.
 
-## [Il Colpo]()
+## [Il Colpo](/ilcolpo)
 *Abili investigatori mettono in atto un piano per un grande colpo.*
-## [La Cucina Caotica]()
+## [La Cucina Caotica](/cucinacaotica)
 *I servitori di corte si affrettano a preparare e servire un banchetto fantastico.*
-## [Hotel Epidemia]()
+## [Hotel Epidemia](/hotelepidemia)
 *Uno staff impegnato deve affrontare l'arrivo improvviso di un nuovo virus zombi.*
-## [La Ricognizione delle Giacche Rosse]()
+## [La Ricognizione delle Giacche Rosse](/ricongiaccherosse)
 *Una squadra in trasferta della Flotta Spaziale si dirige sul pianeta per indagare su un segnale di soccorso.*
-## [Lo Straniero]()
+## [Lo Straniero](/straniero)
 *I cittadini di frontiera sono visitati da un inquietante sconosciuto.*
 
 # Strumenti
