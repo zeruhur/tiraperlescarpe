@@ -16,11 +16,11 @@ Questi scenari possono essere usati dai GM come punti di partenza per le session
 *Abili investigatori mettono in atto un piano per un grande colpo.*
 ## [La Cucina Caotica](/cucinacaotica.md)
 *I servitori di corte si affrettano a preparare e servire un banchetto fantastico.*
-## [Hotel Epidemia](/hotelepidemia)
+## [Hotel Epidemia](/hotelepidemia.md)
 *Uno staff impegnato deve affrontare l'arrivo improvviso di un nuovo virus zombi.*
-## [La Ricognizione delle Giacche Rosse](/ricongiaccherosse)
+## [La Ricognizione delle Giacche Rosse](/ricongnizionegiaccherosse.md)
 *Una squadra in trasferta della Flotta Spaziale si dirige sul pianeta per indagare su un segnale di soccorso.*
-## [Lo Straniero](/straniero)
+## [Lo Straniero](/lostraniero.md)
 *I cittadini di frontiera sono visitati da un inquietante sconosciuto.*
 
 # Strumenti

@@ -41,7 +41,7 @@ Indipendentemente dal fatto che l'oggetto sia stato preso con successo o meno, l
 ## Tabelle Casuali
 
 ### Nomi dei PNG
-Tira per descrizione e personalità nelle tabelle PNG.
+Tirate per descrizione e personalità nelle tabelle PNG.
 1. Forze dell'ordine
 2. "Esperto" carismatico
 3. Stunt

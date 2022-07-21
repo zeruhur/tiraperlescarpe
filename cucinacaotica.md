@@ -30,7 +30,7 @@ La corte si riunisce per essere servita e la qualità del cibo preparato e le at
 
 ## Tabelle casuali
 ### Nomi dei PNG
-Tira per gli aggettivi sulle tabelle NPC.
+Tirate per gli aggettivi sulle tabelle NPC.
 
 1. Dragonide
 2. Nano
